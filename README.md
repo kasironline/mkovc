@@ -1,3 +1,3 @@
-# mkovc
+### MKOVC
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/11ty-srrapp)
+Developer by [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
