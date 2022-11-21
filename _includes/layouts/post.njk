@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+---
+
+{{ content | safe }}
+
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<hr>
+<div class="row">
+<div class="col-md-12 col-12 p-1">
+{%- if previousPost %}<a href="{{ previousPost.url | url }}" class="text-start btn btn-outline-dark tags">← {{ previousPost.data.title }}</a>{% endif %}
+
+  {%- if nextPost %}<small><a href="{{ nextPost.url | url }}" class="text-end btn btn-outline-dark tags">{{ nextPost.data.title }} →</a></small>{% endif %}
+  </div>
+</ul>
+{%- endif %}

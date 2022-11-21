@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="google-site-verification" content="ebvLr84CVTSpjtrusz7g7RB21J384B2SJOGrau8jl04" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title or metadata.title }}</title>
+<meta name="description" content="{{ description or metadata.description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{metadata.url}}">
+<meta property="og:site_name" content="{{ title or metadata.title }}">
+<meta property="og:locale" content="id_ID">
+<meta property="og:title" content="{{ title or metadata.title }}">
+<meta property="og:description" content="{{ description or metadata.description }}">
+<meta property="og:image" content="https://mesinkasironline.pages.dev/img/mesin%20kasir%20touchscreen%20layar%20sentuh3.webp">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
+<meta property="og:image:alt" content="{{ title or metadata.title }}">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@eleven_ty">
+<meta property="twitter:creator" content="@hockeycomp">
+<meta property="twitter:url" content="https://www.mesinkasironline.vercel.app/">
+<meta property="twitter:title" content="{{ title or metadata.title }}">
+<meta property="twitter:description" content="{{ description or metadata.description }}">
+<meta property="twitter:image" content="https://mesinkasironline.pages.dev/img/mesin%20kasir%20touchscreen%20layar%20sentuh3.webp">
+<meta property="twitter:image:alt" content="{{ title or metadata.title }}">
+<link rel="apple-touch-icon" href="https://www.11ty.dev/img/favicon.png">
+<link rel="icon" type="image/x-icon" href="https://www.11ty.dev/img/favicon.png" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+<link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+<link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+</head>
+<body>

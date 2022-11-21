@@ -1,0 +1,21 @@
+{
+  "title": "Mesin Kasir Online",
+  "url": "https://mesinkasironline.vercel.app/",
+  "language": "id",
+  "description": "Solusi lengkap untuk kebutuhan minimarket toko shop dan restoran cafe rumah makan kuliner mesin kasir website aplikasi software program all in one app",
+  "feed": {
+    "subtitle": "Solusi lengkap untuk kebutuhan minimarket toko shop dan restoran cafe rumah makan kuliner mesin kasir website aplikasi software program all in one app",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://mesinkasironline.vercel.app"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://mesinkasironline.vercel.app/feed/feed.json"
+  },
+  "author": {
+    "name": "Creativitas",
+    "email": "axcora@gmail.com",
+    "url": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll"
+  }
+}

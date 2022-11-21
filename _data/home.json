@@ -1,0 +1,84 @@
+{
+  "cover1": "https://mesinkasir.github.io/assets/img/all%20in%20one%20touchscreen%20pos%20(3).webp",
+  "cover2": "https://mesinkasir.github.io/assets/img/mesinkasirallinonepos.webp",
+  "section1": {
+    "title1": "POS",
+    "text1": "Inilah mesin kasir yang sesungguhnya untuk menunjang bisnis usaha mu.",
+    "title2": "Complete",
+    "text2": "Include dengan software program aplikasi dan hardware point of sale kasir.",
+    "title3": "Brand",
+    "text3": "Menggunakan brand terbaik dengan all in one touchscreen pos by ASUS technology."
+  },
+  "banner": {
+    "cover": "https://mesinkasir.github.io/assets/img/all%20in%20one%20touchscreen%20pos%20(5).webp",
+    "title": "Technology",
+    "text": "Penerapan technology modern dalam konsep dan skema mesin kasir desktop mode maupun online terbaik untuk digunakan."
+  },
+  "section2": {
+    "cover": "https://mesinkasir.github.io/assets/img/touchscreen%20v.webp",
+    "title1": "All In One Touchscreen POS",
+    "text1": "Dukungan penuh dengan all in one pc desktop dan led monitor touchscreen layar sentuh dalam satu terminal untuk mesin kasir pos mu.",
+    "title2": "Software Program Aplikasi POS",
+    "text2": "Sudah include dengan program dan software aplikasi untuk toko minimarket barcode system maupun penggunaan pada restoran cafe dengan waiters kitchen dan kasir admin.",
+    "title3": "Hardware POS Kasir",
+    "text3": "Integrasi dan koneksi secara penuh dengan peralatan perlengkapan hardware kasir seperti printer kasir dengan auto cutter dan metode cetak cepat untuk struk dan bill kasir, laci kasir bahan besi untuk mediasi penyimpanan transaksi pada kasir, barcode system untuk membaca kode barcode dengan laser atau membuat kode barcode sendiri dengan mesin barcode."
+  },
+  "section3": {
+    "title": "Best Seller",
+    "text": "Produk terlaris untuk minimarket toko dan restoran cafe rumah makan mu.",
+    "cover1": "https://kasironline.github.io/pos/mkvc/mesin kasir touchscreen layar sentuh3.webp",
+    "title1": "Touchscreen POS V.3",
+    "text1": "Mesin kasir murah dengan touchscreen system include program software aplikasi kasir.",
+    "link1": "",
+    "cover2": "https://kasironline.github.io/pos/mkvc/mesin kasir touchscreen layar sentuh5.webp",
+    "title2": "Touchscreen POS V.5",
+    "text2": "Mesin kasir dengan barcode auto multi laser system untuk pembaca kode barcode.",
+    "link2": "",
+    "cover3": "https://kasironline.github.io/pos/mkvc/mesin kasir touchscreen layar sentuh6.webp",
+    "title3": "Touchscreen POS V.6",
+    "text3": "Dengan mesin barcode untuk mencetak kode barcode sesuai dengan desain kreatifitas mu.",
+    "link3": ""
+  },
+  "section4": {
+    "title": "System skema dan konsep",
+    "text": "Penggunaan skema dan konsep dalam penerapan point of sale kasir.",
+    "btn1": "Desktop",
+    "title1": "Desktop Terminal",
+    "text1": "Merupakan system teknologi dengan kemampuan bekerja secara mandiri dengan offline metode, artinya system skema ini tidak membutuhkan koneksi internet dalam operasional nya, karna semua installasi baik program software dan aplikasi kasir dilakukan dan di injeksi pada terminal device, sehingga semua penyimpanan baik media dan database di simpan secara local server dalam penerapan nya. Untuk kebutuhan pembagian divisi kita dapat menggunakan kabel lan maupun jaringan wifi nya saja tanpa perlu koneksi internet untuk penerapan membagi shared data antara server admin ke berbagai divisi seperti kasir dan lain sebagai nya. untuk kebutuhan pembagian data maka pada system ini pc admin sebagai server harus hidup agar dapat membagi data ke client atau divisi pc seperti kasir .",
+    "btn2": "Hybrid",
+    "title2": "Hybrid Metode",
+    "text2": "Skema dan konsep pengembangan dari desktop version yang kemudian selanjutnya untuk kebutuhan mobilitas penuh , maka perlu untuk melakukan integrasi database secara online, untuk inilah penerpaan skema database online menjadi solusi setelah penggunaan desktop offline mode, dengan penerapan hybrid version ini maka sudah dilakukan integrasi dengan web admin backend untuk memudahkan owner dalam cek pembukuan secara real time online dimana saja dan kapan pun via berbagai device yang digunakan seperti penggunaan smartphone laptop tablet dan pc dektop untuk cek laporan secara online.Dengan menggunakan metode ini maka server akan berada pada cloud hybrid mode sehingga memudahkan pc client yang digunakan pada divisi dapat akses secara langsung kebutuhan database sesuai dengan aturan perdivisi tanpa perlu menghidupkan pc admin server dalam bekerja karna shared data dilakukan via cloud metode.",
+    "btn3": "Cloud",
+    "title3": "Cloud Technology",
+    "text3": "Era modern telah dimulai dengan hadirnya cloud teknologi dalam di terapkan, ya dengan menggunakan skema ini maka semua installasi aplikasi maupun database akan secara langsung di install pada cloud server , dengan konsep ini akan mendukung penuh mobilitas dan efisiensi dalam bekerja, dengan kemudahan akses dari berbagai device seperti smartphone android iphone windows laptop dan lain sebagai nya, bukan hanya itu saja penggunaan dengan konsep cloud ini sendiri sudah dikembangkan dengan integrasi website secara lansgung, artinya kita akan mendapatkan website informasi sekaligus bekerja dengan aplikasi online secara langsung, pada premium version sendiri pun sudah dapat dilakukan integrasi dengan aplikasi android untuk kemudahan owner cek laporan via smartphone android dan juga aplikasi android untuk pelanggan , agar pelanggan dapat mendapatkan informasi update dari bisnis usaha."
+  },
+  "section5": {
+    "cover": "https://kasironline.github.io/pos/mkvc/aplikasikasironline.webp",
+    "title": "Mobile POS On The Go !!",
+    "text": "Upgrade dan update ke teknologi online untuk masa depan dan kemudahan di tangan anda.",
+    "title1": "Multi Devices",
+    "text1": "Kebebasan dalam point of sale era dengan multi devices akses dan user login via berbagai devices untuk bekerja.",
+    "title2": "Online Reporting",
+    "text2": "Sempurnakan dengan mobilitas tinggi untuk monitoring bisnis dengan online reporting cek laporan via smartphone secara real time online.",
+    "title3": "Website Integration",
+    "text3": "Integrasi dengan website toko minimarket dan website restoran cafe rumah makan via content management system integrasi dengan aplikasi toko kasir restoran secara langsung.",
+    "title4": "Desktop App",
+    "text4": "Koneksi dan terintegrasi secara penuh dengan mesin kasir dalam bekerja secara cloud technology.",
+    "title5": "Mobile App",
+    "text5": "Responsive design UI memudahkan penyesuaian display tampilan akses via smartphone tablet maupun pc desktop laptop.",
+    "title6": "Android App",
+    "text6": "Semakin sempurna dengan integrasi android app untuk backend admin owner dan frontend android informasi bisnis untuk di unduh oleh pelanggan ."
+  },
+  "section6": {
+    "cover1": "https://kasironline.github.io/assets/img/MESINKASIRONLINE%20(8).webp",
+    "cover2": "https://kasironline.github.io/assets/img/MESINKASIRONLINE%20(10).webp",
+    "title": "Point Of Sale",
+    "text": "Dapat digunakan secara penuh untuk mendukung usaha dan bisnis retail maupun kuliner anda.",
+    "title1": "Mesin Kasir Toko Shop Minimarket",
+    "text1": "Special dalam penggunaan untuk usaha bisnis di bidang retail penjualan seperti minimarket dan toko maupun baby shop pet shop semua toko dapat menggunakan nya secara fleksibel dalam menunjang berbagai aktifitas pembukuan dan mempercepat transaksi, barcode system siap digunakan dalam kebutuhan mempercepat transaksi dan menimalkan kesalahan input data, kemudian inventori stok management hingga rangkuman laporan laporan detail serta kebutuhan penggunaan secara standalone mesin kasir mandiri untuk semua transaski maupun pembagian divisi dengan admin server - kasir penjualan - gudang untuk inventori stok dan berbagai lain nya. Kemudahan dalam input data seperti user pengaturan hak akses user dalam bekerja, pelanggan untuk mencatat pelanggan member dengan diskon khusus dan mencatat piutang pelanggan, stok opaname, transfer stok,multi gudang, penggunaan PPn dan Non PPn, pilihan produk seperti warna ukuran , konversi stok membuka pak untuk di ecer , penjualan kasir dengan metode touchscreen plus barcode , rangkuman laporan all detail yang lengkap.",
+    "link1": "/mesinkasirtoko/",
+    "title2": "Mesin Kasir Restoran Cafe Rumah Makan",
+    "text2": "Fokus untuk kebutuhan restoran cafe rumah makan dengan system metode yang sangat lengkap dalam digunakan , mulai teknologi single standalone system dengan satu mesin kasir untuk menunjang berbagai kebutuhan transaksi kasir pos dan cek rangkuman laporan detail hingga lain nya, serta kebutuhan multi transaksi mode seperti fastfood penjualan langsung, atau pencatatan meja pelanggan lengkap dengan detail informasi pesanan nya plus reservasi system, semakin sempurna untuk kebutuhan pembagian divisi dengan waiters tablet order secara khusus mencatat pesanan pelanggan dan mengirimkan via printer kitchen atau penggunaan kitchen display screen dan kasir pos untuk transaksi plus dukungan mencetak struk kasir hingga bill, kemudahan admin dalam cek semua rangkuman laporan detail yang terjadi pada restoran cafe rumah makan usaha kuliner. Tentunya konsep yang cukup lengkap untuk digunakan dengan kemudahan input data pengguna ,akses,pelanggan, penggunaan resep menu makanan minuman, pilihan menu misal pedas tidak pedas, panas dingin dan lain sebagai nya, system PPn maupun Non PPn, metode penjualan gambar menu makanan minuman yang keren, cash flow untuk mengatur kas masuk dan keluar serta close kasir untuk merangkum pendapatan detail per hari",
+    "link2": "/mesinkasirrestroancafe/"
+  }
+}

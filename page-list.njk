@@ -1,0 +1,18 @@
+---
+pagination:
+  data: collections.all
+  size: 90
+  alias: entries
+title: Sitemap mesin kasir online
+description: Peta situs informasi mengenai mesin kasir online dan aplikasi software program toko minimarket restoran cafe rumah makan web app.
+layout: layouts/base.njk
+eleventyNavigation:
+  key: Sitemap
+  order: 6
+permalink: /sitemap/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber }}/{% endif %}
+---
+<div class="row mb-5">
+{%- for entry in entries %}
+<h3 class="col-md-4 col-6 p-1"><a href="{{ entry.url }}" class="page-list">{{ entry.data.title }}</a></h3>
+{%- endfor %}
+</div>

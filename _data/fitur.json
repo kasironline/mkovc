@@ -1,0 +1,96 @@
+{
+  "lavaapp": {
+    "fitur": "user account, supplier , kategori grouping produk , produk dengan barcode system dan dengan harga eceran retail maupun harga grosir , pembelian ke supplier fitur, transaksi penjualan kasir dengan fitur harga retail dan grosir pada satu display pos kasir penjualan, retur pembelian , laporan laporan detail, stok produk , harga produk beli ,harga jual produk retail grosir, penerimaan barang dengan status nya, laporan pesanan pembelian , laporan pendapatan hari ini , laporan pendapatan per periode, dan lain lain. serta content management system aplikasi untuk pembuatan website terintegrasi secara langsung dengan aplikasi kasir toko grosir dan eceran dengan kemudahan melakukan update mendesain website halaman home, about, dan lain sebagai nya.",
+    "buy": "/buylava/",
+    "intro": "Lava app adalah aplikasi kasir toko penjualan yang memudahkan dalam kebutuhan untuk menjual dengan harga grosir dan eceran dalam satu display pos app untuk digunakan, selain itu desain UI yang menarik menjadikan tampilan pos web app ini nampak lebih elegan dan mewah, bekerja dengan online mode semakin memudahkan untuk akses dari berbagai devices untuk input data dan cek laporan, kemudahan integrasi dengan mesin kasir menjadikan kesempurnaan untuk bekerja menggunakan lava app, dan tentunya fitur lengkap menjadi pilihan terbaik untuk digunakan menunjang bisnis retail gorsir shop minimarket dan toko.",
+    "video1": "Xp_sHwn15aQ",
+    "video2": "M76q5Z7BVDk",
+    "video3": "a5pVkOt6oJ0"
+  },
+  "chrompos": {
+    "fitur": "user account, hak akses kuasa login, member pelanggan include diskon otomatis dan pencatatan kasbon, kategori grouping produk , produk dengan barcode system dan dengan gambar foto produk , inventori in out stok dengan berbagai fungsi kebutuhan , rakitan produk, paketan produk,open pak satuan terbesar untuk di ecer,Penggunaan PPn pajak penjualan dan non PPn dalam penjualan, penggunaan pilihan produk misal warna ukuran dan lain sebagai nya, transaksi penjualan kasir dengan fitur barcode dan touchscreen metode, edit dan retur penjualan, retur stok, stok opname, close cash tutup kasir, arus kas in out keuangan , cash flow, laporan detail inventori stok, laporan detail master data, laporan detail penjualan, laporan detail keuangan, laporan laba rugi,pada hybrid version include dengan web admin backend untuk memudahkan owner cek laporan secara real time via berbagai device smartphone dan laptop, content management system untuk update website frontend dot com integrasi dengan program software toko minimarket. Khusus untuk online mode wajib memiliki desktop version untuk integrasi online.",
+    "buy": "/buychrompos/",
+    "intro": "Kebutuhan untuk bisnis toko minimarket dan shop maka menggunakan chrompos adalah pilihan yang sangat tepat, dengan kelengkapan fitur dalam digunakan, dukungan dengan teknologi touchscreen modern dan barcode system , hingga kemampuan nya bekerja hybrid mode untuk kebutuhan bekerja secara offline desktop maupun dengan integrasi cloud database untuk bekerja, update ke online mode maka akan memberikan efisiensi dan menyempurnakan khusus nya untuk owner cek laporan nya dimana saja dan kapan saja dari berbagai devices untuk monitor pembukuan toko minimarket nya. selain itu juga integrasi dengan website memudahkan dalam membuat website dengan kreatifitas sendiri. all in one paket lengkap program toko, software toko dan website dot com untuk toko shop minimarket pada online mode, atau gunakan dekstop mode jika membutuhkan offline system.",
+    "video1": "hzXc74f5KP8",
+    "video2": "foa0IlLn_yw",
+    "video3": "zQIjZPnGthc"
+  },
+  "posx": {
+    "fitur": "user account, customer, supplier , member card, grup produk, produk based dengan gambar foto produk dan support dengan barcode system , service jasa , transaksi pembelian, in out kas ./ cash flow , penjualan kasir dengan mode touchscreen gambar dan support barcode dalam pos penjualan , pending transaksi kasir , laporan stok, laporan detail penjualan, laporan omset income dan berbagai laporan detail yang sangat lengkap untuk rangkuman pembukuan bisnis, plus integrasi dengan website toko yang memudahkan membuat website sendiri secara langsung, dan pada premium paket include android app backend untuk kemudahan owner cek laporan via smartphone android nya secara real time online dan frontend untuk pelanggan.",
+    "buy": "/buyposx/",
+    "intro": "Nikmati kemudahan bekerja dengan menggunakan pos-x web app, sangat mudah digunakan dan merupakan best seller aplikasi toko minimarket kami dalam digunakan oleh pelanggan guna mendukung penuh untuk mempercepat transaksi kasir, meminimalkan kesalahan input data hingga rangkuman laporan detail yang tersusun dengan rapi, metode teknologi modern tersemat dengan cloud app ini kemudahan akses dari berbagai devices untuk cek laporan dan bekerja via mesin kasir serta integrasi dengan website toko minimarket dot com plus dukungan android app menyempurnakan kebutuhan aplikasi toko modern terbaru update untuk digunakan.",
+    "video1": "IuifeUDo3RU",
+    "video2": "TGjTbgIe3LI",
+    "video3": "wagXlVB4hw8"
+  },
+  "robopos": {
+    "fitur": "data user , customer , supplier , staff pengguna dan operasional app serta lain nya,plus laporan laporan detail tersedia untuk laporan people data, gudang,setting logo,aplikasi , POS kasir, agenda event promosi, notifikasi , email, grup produk, kategori, produk jual, pilihan produk misal warna dan lain nya, transfer stok antar gudang toko ,cetak barcode produk , laporan stok ,grafik,minim dan expired stok, Konfigurasi , pembelian, list pembelian edit dan retur fungsi, pembayaran dan beban biaya kas keluar , laporan pembelian harian, bulanan, supplier, lap pembelian, laporan pembayaran, menatat penawaran, membuat invoice faktur jual letter format, kios pos kasir dengan struk kasir , pengiriman order lengkap dengan status, voucher , retur , cash register, profit hari ini, laporan harian , laporan bulanan, laporan penjualan grafik dan pajak, laba rugi , cashflow arus kas in out , pembelian detail , penjualan detil, laporan stok , laporan per staff, integrasi dengan toko online shop untuk premium version ready dengan app android.",
+    "buy": "/buyrobopos/",
+    "intro": "Era modern web app menyempurnakan kebutuhan dan kecepatan dalam proses pengelolahan data , baik digunakan  dengan aplikasi toko untuk bekerja via kasir penjualan pos point of sale, hingga kebutuhan implementasi dalam bekerja dengan inventori stok management, keuangan dan laporan laporan detail lain nya, selain itu integrasi dengan website toko online shop memungkinkan kita untuk handle dua transaksi dengan cepat , toko online shop memungkinkan pelanggan melakukan order secara online langsung, selanjutnya pos point of sale bekerja untuk hadle penjualan pelanggan yang datang ke toko minimarket shop , dan semua nya terintegrasi secara detail dengan menggunakan aplikasi toko ini.",
+    "video1": "el-WzBSjxYI",
+    "video2": "ilxs6l5Dhfw",
+    "video3": "ws9wBOP6Zvc"
+  },
+  "bangresto": {
+    "fitur": "Data user , customer , konfigurasi dan pengaturan rumah makan restoran cafe ,menu makanan dan minuman produk hingga kebutuhan untuk resep pilihan menu,transaksi pembelian ke supplier, stok inventori management, waiters, kasir , kitchen display split membagi masing masing divisi kitchen , counter customer display dan laporan lengkap,accounting akuntansi keuangan detail.",
+    "buy": "/buybang/",
+    "intro": "Bang resto web app adalah sebuah teknologi modern dengan aplikasi restoran cafe rumah makan yang terintegrasi dengan website online order, dengan konsep ini maka semakin mudah untuk bekerja handle transaksi pada kasir via mesin kasir menggunakan aplikasi restoran, pencatatan no meja pelanggan, waiters tablet dan mobile order system konsep, mengirimkan pesanan menu makanan dan minuman ke masing masing divisi kitchen, kasir mencetak bill dan struk kasir, hingga admin untuk cek laporan dan melakukan transaksi keuangan detail, plus website online order memungkinkan pelanggan melakukan reservasi dan pemesanan menu makanan minuman secara online, dan berbagai fitur lengkap lain nya dengan premium version maka memudahkan integrasi dengan aplikasi android restoran backend untuk owner cek laporan dan untuk kebutuhan di unduh oleh pelanggan agar mendapatkan informasi detail update terbaru dari restoran cafe rumah makan usaha kuliner.",
+    "video1": "DtJO_2ZO8lE",
+    "video2": "3eqJz3KqY1M",
+    "video3": "mKhINwUi3aA"
+  },
+  "mresto": {
+    "fitur": "Dashboard , Login area ,  user, supplier ,meja table , Menu makanan minuman ,transfer stok, stok opname, inventori stok management, Transaksi resto cafe , pembelian , cek laporan pembelian, melakukan retur ,penjualan kasir dengan metode bungkus delivery order makan ditempat, kitchen display screen. pos point of sale kasir kios pos , booking , semua rangkuman laporan detail , setting dan konfigurasi aplikasi, content management system untuk update informasi website dan mendesain sesuai kebutuhan , pada premium version akan mendapatkan qrcode menu digital untuk kemudahan pelanggan scan qrcode dan memilih menu makanan minuman, ditambah dengan android app untuk kemudahan owner cek laporan via android smartphone hingga android app untuk di download oleh pelanggan yang menampilkan info update dari restoran cafe rumah makan kuliner. ",
+    "buy": "/buymresto/",
+    "intro": "Jika membutuhkan aplikasi restoran yang lengkap maka mr.restopos adalah pilihan tepat untuk digunakan, dengan kemampuan secara maksimal mendampingi pembukuan bisnis usaha kuliner restoran cafe rumah makan juga tentunya terintegrasi dengan website yang memudahkan kita melakukan update dan membuat website resto cafe sendiri dengan cepat, bukan hanya itu fitur yang lengkap dengan waiters mobile order, kitchen display screen hingga kios pos kasir penjualan dan admin backend office memberikan kesempurnaan bekerja dalam all in one konsep aplikasi kasir resto plus website restoran cafe rumah makan dalam satu app untuk digunakan.",
+    "video1": "BidBDJmKo0Y",
+    "video2": "7wEQlkKZPpg",
+    "video3": "9ZgMqp7HFYw"
+  },
+  "restox": {
+    "fitur": "User account, hak akses , password proteksi login, supplier, pelanggan, meja table rumah makan restoran cafe, arus kas keuangan in out, penjualan kasir pos point of sale dengan gambar foto produk dan support barcode, pengelolahan inventori stok management, pembelian ke supplier, alert bill list pelanggan, close cash tutup kasir, cash flow keuangan, laporan laporan detail lengkap semua fitur, content management system cms restoran cafe rumah makan untuk kemudahan melakukan update website, dan pada premium version akan mendapatkan qrcode menu digital , android app untuk backend owner cek laporan dan frontend untuk pelanggan, online order whatsapp dalam satu apps.",
+    "buy": "/buyrestox/",
+    "intro": "Resto-x web app adalah aplikasi restoran,aplikasi cafe,aplikasi rumah makan yang sangat mudah digunakan dalam operasional dan didukung dengan fitur yang lengkap dalam kebutuhan bertransaksi maupun untuk kebutuhan rangkuman pencatatan pembukuan dan keuangan secara detail, terintergasi dengan restoran cafe cms memudahkan kita untuk membuat website sendiri, dan tentunya khusus premium version nikmati kemajuan bisnis dengan android app untuk owner cek laporan, aplikasi android untuk di download pelanggan guna mendapatkan informasi detail kuliner, hingga qrcode menu digital , plus whatsapp online order yang memungkinkan pelanggan secara langsung melakukan order terintegrasi dengan whatsapp staff restoran cafe rumah makan.",
+    "video1": "JuzvMHmMWxQ",
+    "video2": "0CyXOmIAcJc",
+    "video3": "NhCttBBAmGM"
+  },
+  "unipos": {
+    "fitur": "user account, member pelanggan dengan diskon otomatis dan pencatatan kasbon, gudang, meja , lokasi restoran cafe rumah makan, setting penjualan dengan PPn dan Non PPn, group kategori menu dan produk, menu makanan minuman, pilihan digunakan untuk menu makanan minuman misalnya pilihan panas dingin untuk minuman atau pilihan porsi , resep menu makanan minuman pengelolahan bahan baku menjadi siap saji, inventori stok management, prenjualan kasir mode fastfood, penjualan kasir mode meja restoran cafe rumah makan, waiters tablet order,kitchen display screen dan printer, kasir penjualan pos dengan gambar menu makanan minuman dan produk, cetak bill, cetak struk kasir, rangkuman laporan laporan detail keseluruhan fitur, khusus online mode akan memudahkan dengan webadmin untuk kebutuhan owner cek laporan detail pendapatan omset secara real time online via berbagai device akses , qrcode menu digital, online order, android app backend dan frontend serta website yang terintegrasi dengan aplikasi dengan restoran cafe cms content management system.",
+    "buy": "/buyunipos/",
+    "intro": "Kebutuhan untuk hybrid mode dalam bekerja maka menggunakan unipos adalah pilihan yang sangat tepat dalam menunjang berbagai bisnis usaha kuliner khusus nya, ya bukan sekedar desktop program restoran, software restoran saja untuk bekerja, tetpai kita dapat menerapkan system offline mode maupun online mode sesuai dengan kebutuhan mu, selanjutnya kemapuan nya bekerja secara penuh untuk waiters order dan kasir hingga admin dalam bekerja sama menjadikan kesempurnaan dalam penerapan nya, selain itu kemampuan nya dalam integrasi dengan web admin memudahkan owner cek laporan dan monitoring pembukuan resto cafe secara real time, plus dukungan qrcode menjadi lebih baik untuk kemudahan pelanggan memilih menu via smartphone nya langsung, integrasi dengan website memudahkan kita untuk membuat dan mendesain website restoran cafe sendiri dalam satu app .",
+    "video1": "gGZcHO32mh4",
+    "video2": "pwrdI8r-0iM",
+    "video3": "KB5zmhpsIxo"
+  },
+  "tc2": {
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + program software toko minimarket atau restoran cafe rumah makan + remote desktop untuk bantuan jika kedepan ada permasalahan maka hubungi kami dan lakukan koneksi dengan remote desktop nanti setelah terhubung biarkan kami membantu semua troubleshoot anda, dan sudah termasuk setting installasi mesin kasir siap pakai.",
+    "buy": "/buytouchscreenpos2/",
+    "intro": "Kebutuhan untuk mesin kasir murah makan version 2 touchscreen pos adalah pilihan yang tepat dalam menunjang pembukuan dan bisnis usaha mu, include dengan program dan software toko minimarket maupun restoran cafe dalam bekerja, menjadikan multi fungsi dalam digunakan, selain itu juga sudah termasuk installasi setting siap pakai. plus dukungan online remote dekstop untuk proses training pelatihan live online hingga untuk membantu semua permasalahan pada mesin kasir murah ini.",
+    "video": "9HYHptO36A4"
+  },
+  "tc3": {
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + laci kasir bahan full besi + program software toko minimarket atau restoran cafe rumah makan + remote desktop untuk bantuan jika kedepan ada permasalahan maka hubungi kami dan lakukan koneksi dengan remote desktop nanti setelah terhubung biarkan kami membantu semua troubleshoot anda, dan sudah termasuk setting installasi mesin kasir siap pakai",
+    "buy": "/buymesinkasirmurah/",
+    "intro": "Ini adalah mesin kasir best seller dari kami, yap dengan all in one touchscreen memungkinkan kita dapat bekerja dengan cepat walau tanpa penggunaan barcode, karna sudah di injeksi dengan software program toko minimarket dan restoran rumah makan cafe yang sangat lengkap untuk bekerja, tentunya dukungan penuh metode layar sentuh menjadikan lebih elegan dan mewah untuk menemani transaksi dan pembukuan.",
+    "video": "gGZcHO32mh4"
+  },
+  "tc4": {
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + laci kasir bahan besi + laser barcode manual laser+ program software toko minimarket atau restoran cafe rumah makan + remote desktop untuk bantuan jika kedepan ada permasalahan maka hubungi kami dan lakukan koneksi dengan remote desktop nanti setelah terhubung biarkan kami membantu semua troubleshoot anda, dan sudah termasuk setting installasi mesin kasir siap pakai.",
+    "buy": "/belimesinkasitoko/",
+    "intro": "Kebutuhan bekerja dengan barcode system maka menggunakan touchscreen pos version 4 adalah piliha tepat, dengan barcode laser mode gun akan membantu kita dalam proses transaksi kasir hingga kebutuhan untuk melakukan inventori stok management plus berbagai dukungan lain nya, include dengan program software toko minimarket maupun restoran cafe semakin menyempurnakan penggunaan mesin kasir ini.",
+    "video": "jYKUiC6NXj4"
+  },
+  "tc5": {
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + laci kasir bahan besi + laser barcode auto multi laser yang dapat membaca kode barcode dari berbagai arah + program software toko minimarket atau restoran cafe rumah makan + remote desktop untuk bantuan jika kedepan ada permasalahan maka hubungi kami dan lakukan koneksi dengan remote desktop nanti setelah terhubung biarkan kami membantu semua troubleshoot anda, dan sudah termasuk setting installasi mesin kasir siap pakai.",
+    "buy": "/belimesinkasibarcode/",
+    "intro": "Luxury dengan touchscreenpos version 5 adalah metode teknologi tepat untuk digunakan dalam membangun skema konsep system kasir point of sale yang sempurna, dengan kelengkapan yang tersedia utama nya pada laser barcode omni yang dapat membaca kode barcode dari berbagai arah tentunya akan membantu mempercepat segala proses transaksi secara cepat baik penjualan kasir dan input data barcode produk.",
+    "video": "zQIjZPnGthc"
+  },
+  "tc6": {
+    "fitur": "All in one touchscreen mesin kasir POS + Printer kasir auto cutter + laci kasir bahan besi + laser barcode auto multi laser yang dapat membaca kode barcode dari berbagai arah + mesin barcode untuk mendesain dan mencetak kode barcode buatan sendiri + program software toko minimarket atau restoran cafe rumah makan + remote desktop untuk bantuan jika kedepan ada permasalahan maka hubungi kami dan lakukan koneksi dengan remote desktop nanti setelah terhubung biarkan kami membantu semua troubleshoot anda, dan sudah termasuk setting installasi mesin kasir siap pakai.",
+    "buy": "/belimesinkasir/",
+    "intro": "Terbaik untuk kebutuhan mesin kasir mandiri dengan menggunakan touchscreen pos layar sentuh versi 6 , dengan kelengkapan yang ada semakin menyempurnakan penggunaan mesin kasir point of sale , selain didukung hardware pilihan juga sudah tersedia dengan kemampuan nya secara cepat bekerja untuk penjualan kasir dengan multi laser auto pada barcode nya yang sangat sensitif dalam membaca kode barcode produk, sekaligus kemudahan dalam penggunaan mesin barcode yang memungkinkan kita untuk membuat kode barcode sesuai dengan desain kita sendiri.",
+    "video": "hzXc74f5KP8"
+  }
+}

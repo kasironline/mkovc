@@ -1,0 +1,47 @@
+html,
+.grey {
+  background-color: #ecf0f5;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+.navbar-brand {
+  font-family: fantasy;
+}
+a:link,
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+button,
+.btn {
+  border-radius: 0px;
+}
+.black {
+  background-color: black;
+  color: white;
+}
+.tags {
+  font-size: 10px;
+}
+.page-list:hover {
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+.icon-list:hover {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: rgb(232, 233, 248);
+  color: black;
+}
+.form-control {
+  margin: 10px;
+}
+.icon-border {
+  border: solid 1px;
+  border-color: rgb(232, 233, 248);
+  border-radius: 10px;
+}
